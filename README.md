@@ -1,61 +1,62 @@
-RockPaperScissors – Java Console Game
-Description
+🎮 RockPaperScissors – Java Console Game
+✨ Description
 
-This is a simple Rock-Paper-Scissors game implemented in Java. The game allows a user to play against the computer. The computer makes random moves, and the game determines the winner based on the standard rules:
+This is a fun and simple Rock-Paper-Scissors game implemented in Java! 🖐️✊✌️
+The game allows a user to play against the computer, which makes random moves. The winner is determined based on the standard rules:
 
-Rock beats Scissors
+✊ Rock beats Scissors
 
-Scissors beats Paper
+✌️ Scissors beats Paper
 
-Paper beats Rock
+🖐️ Paper beats Rock
 
-The project demonstrates basic Java programming concepts, including variables, loops, conditional statements, user input, and random number generation.
+This project is a great way to learn basic Java programming concepts, including variables, loops, conditional statements, user input, and random number generation.
 
-Features
+🛠 Features
 
-Console-based game interface
+💻 Console-based game interface
 
-User inputs their choice:
+🎯 User inputs their choice:
 
-0 for Rock
+0 for Rock ✊
 
-1 for Paper
+1 for Paper 🖐️
 
-2 for Scissors
+2 for Scissors ✌️
 
-Computer makes a random selection
+🤖 Computer makes a random selection
 
-Handles invalid user input (numbers other than 0, 1, or 2)
+⚠️ Handles invalid input (numbers other than 0, 1, or 2)
 
-Detects a draw and asks the user to play again
+🔄 Detects a draw and asks the user to play again
 
-Displays the winner after each round
+🏆 Displays the winner after each round
 
-How It Works
+🔍 How It Works
 
 The game starts and asks the user to choose Rock, Paper, or Scissors.
 
-The computer randomly selects one of the three options.
+The computer randomly selects one of the three options 🤖.
 
 The program compares the user’s choice with the computer’s choice.
 
-The winner is determined according to standard Rock-Paper-Scissors rules.
+The winner is determined according to Rock-Paper-Scissors rules.
 
-If there is a draw, the game prompts the user to play again until there is a winner.
+If there is a draw, the game prompts the user to play again 🔄.
 
-The result (User Wins / Computer Wins / Draw) is displayed in the console.
+The result (User Wins / Computer Wins / Draw) is displayed in the console 🏆.
 
-Requirements
+📋 Requirements
 
-Java JDK 8 or higher
+Java JDK 8 or higher ☕
 
-A console/terminal to run the program
+A console/terminal to run the program 💻
 
-How to Run
+🚀 How to Run
 
 Clone or download the repository.
 
-Open the project folder in your preferred IDE (like Eclipse, IntelliJ, or VS Code) or terminal.
+Open the project folder in your preferred IDE (Eclipse, IntelliJ, VS Code) or terminal.
 
 Compile the Java program:
 
@@ -67,26 +68,26 @@ Run the program:
 java rockpaperscissors
 
 
-Follow the on-screen instructions to play the game.
+Follow the on-screen instructions to play the game. 🎮
 
-Example
+🎮 Example
 ROCK - PAPER - SCISSORS GAME
 Enter your choice (0=rock, 1=paper, 2=scissors)
 0
-User chose ROCK
-Computer chose SCISSORS
-User Wins!
+User chose ROCK ✊
+Computer chose SCISSORS ✌️
+User Wins! 🏆
 
-Learning Outcomes
+📚 Learning Outcomes
 
 This project helps beginners understand:
 
-User input handling with Scanner
+📝 User input handling with Scanner
 
-Random number generation with Random
+🎲 Random number generation with Random
 
-Conditional statements (if-else)
+🔀 Conditional statements (if-else)
 
-Loops (while)
+🔁 Loops (while)
 
-Basic game logic and flow control
+🧩 Basic game logic and flow contro
